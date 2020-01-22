@@ -92,9 +92,9 @@ Note that we do not make these assignments publicly available.
 
 | Project |	Precepts | Design review | Due | Subject|
 |---------|----------|----------|----------|---------|
-| P1      | 22.01.20 | TBA      | 12.02.20 | Boot-up mechanism |
-| P2      | 12.02.20 | TBA      | 04.03.20 | Non-preemptive scheduling (home exam) |
-| P3      | 04.03.20 | TBA      | 18.03.20 | Preemptive scheduling (home exam) |
-| P4      | 18.03.20 | TBA      | 15.04.20 | IPC and process management (home exam) |
-| P5      | 15.04.20 | TBA      | 06.05.20 | Virtual memory (home exam) |
-| P6      | 06.05.20 | TBA      | 03.06.20 | File system |
+| P1      | 22.01.20 | TBA      | 11.02.20 23:59 | Boot-up mechanism |
+| P2      | 12.02.20 | TBA      | 03.03.20 23:59 | Non-preemptive scheduling (home exam) |
+| P3      | 04.03.20 | TBA      | 17.03.20 23:59 | Preemptive scheduling (home exam) |
+| P4      | 18.03.20 | TBA      | 14.04.20 23:59 | IPC and process management (home exam) |
+| P5      | 15.04.20 | TBA      | 05.05.20 23:59 | Virtual memory (home exam) |
+| P6      | 06.05.20 | TBA      | 03.06.20 23:59 | File system |
