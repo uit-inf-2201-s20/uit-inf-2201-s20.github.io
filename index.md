@@ -40,10 +40,10 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 * Tore Brox-Larsen (tore@cs.uit.no, A254)
 * Issam Rais (issam.rais@uit.no, A247)
 * Lukasz Sergiusz Michalik (lukasz.s.michalik@uit.no, A249)
-* Åsmund Aqissiaq Arild Kløvstad (asmund.a.klovstad@uit.no)
-* Markus Olav Tiller (mti011@post.uit.no)
+* Åsmund Aqissiaq Arild Kløvstad (asmund.a.klovstad@uit.no, A214)
+* Markus Olav Tiller (mti011@post.uit.no, A216)
 * Sivert Johansen (sivert.johansen@uit.no)
-* Isak Østrem Hellemo (isak.o.hellemo@uit.no, TEO-H2 2.210)
+* Isak Østrem Hellemo (isak.o.hellemo@uit.no, A214)
 * Jo Inge Arnes (jo.i.arnes@uit.no, A123)
 
 ## Lecture plan (will be updated)
