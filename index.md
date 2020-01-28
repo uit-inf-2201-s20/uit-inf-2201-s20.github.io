@@ -61,12 +61,12 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 | L10 | 13.02.20 | Message passing | MOS 2.3.8 | Tore |
 | L11 | 18.02.20 | I/O Devices and Drivers | MOS 5 | Tore |
 | L12 | 20.02.20 | Adress Translation, Paging | MOS 3.1 - 3.3, 3.7| Tore |
-| L13 | 05.03.20 | Paging and VM Design | MOS 3.4 | Tore |
-| L14 | 10.03.20 | Paging and VM Design (continued) | MOS 3.5 - 3.9 | Tore |
+| L13 | 05.03.20 | Paging and VM Design | MOS 3.4 | Issam |
+| L14 | 10.03.20 | Paging and VM Design (continued) | MOS 3.5 - 3.9 | Issam |
 | L9  | 12.03.20 | Thread Packages | MOS 2.2 | Tore |
-| L15 | 19.03.20 | CPU Scheduling and Deadlocks | MOS 2.4, 6 | Tore |
-| L16 | 24.03.20 | CPU Scheduling and Deadlocks | MOS 2.4, 6 | Tore |
-| L17 | 26.03.20 | Storage systems | MOS 5.4 | Tore |
+| L15 | 19.03.20 | CPU Scheduling and Deadlocks | MOS 2.4, 6 | Issam |
+| L16 | 24.03.20 | CPU Scheduling and Deadlocks | MOS 2.4, 6 | Issam |
+| L17 | 26.03.20 | Storage systems | MOS 5.4 | Issam |
 | L18 | 31.03.20 | File Systems I | MOS 4.1 - 4.6 | Issam |
 | L19 | 02.04.20 | File Systems (continued) | MOS 4.1 - 4.6 | Issam |
 | L20 | 16.04.20 | Virtual Machines and Containers | MOS 7 | Issam |
