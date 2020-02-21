@@ -69,7 +69,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails, for which room 
 | L18 | 02.04.20 | File Systems I | MOS 4.1 - 4.6 | Issam |
 | L19 | 16.04.20 | File Systems (continued) | MOS 4.1 - 4.6 | Issam |
 | L20 | 21.04.20 | Virtual Machines and Containers | MOS 7 | Issam |
-| L21 | 23.04.20 | Thread Packages | MOS 2.2 | Issam |
+| L21 | 23.04.20 | Q/As | MOS 2.2 | Issam |
 
 
 ## Readings
